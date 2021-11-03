@@ -1,0 +1,12 @@
+{
+  "name": "ping-coming-soon-page",
+  "version": "1.0.0",
+  "scripts": {
+    "sass": "sass -w scss:css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.43.4"
+  }
+}
